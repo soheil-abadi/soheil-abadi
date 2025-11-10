@@ -18,7 +18,7 @@ Check out my portfolio → [soheil-abadi.ir](https://soheil-abadi.ir)
 
 ## 💼 Experience
 
-### 🏢 Hafez Insurance (BimTec)  
+### 🏢 Hafez Insurance (Bimtec)  
 **Frontend Developer (Next.js)** — *Apr 2025 – Present*  
 Developed a fully digital **vehicle insurance platform** allowing users to purchase and renew policies online.  
 - Implemented browser-based **vehicle inspection** (8 photos + video).  
