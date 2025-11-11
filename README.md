@@ -81,6 +81,4 @@ Worked during military service period.
 ---
 
 
----
-
 ⭐ *“Building clean, efficient, and user-centered web experiences.”*
